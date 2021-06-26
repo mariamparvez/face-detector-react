@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-First things first! WELCOME!!
+I am glad you took time to view this repo. To view this project on your browser, do the following.
 
 To run this project on your browser, run the following command on yur terminal
 
