@@ -2,9 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## I am glad you took time to view this repo. To view this project on your browser, do the following.
 
-I am glad you took time to view this repo. To view this project on your browser, do the following.
+
 
 To run this project on your browser, run the following command on yur terminal
 
